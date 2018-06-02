@@ -1,0 +1,12 @@
+<resources>
+    <string name="profile">StudentProfile</string>
+    <string name="name">Student</string>
+    <string name="Role">role</string>
+    <string name="app_name">StudentAttendance</string>
+    <string name="mi_home">Home</string>
+    <string name="mi_profile">Profile</string>
+    <string name="mi_viewAttendance">View Attendance</string>
+    <string name="title_activity_view_course_profile">ViewCourseProfile</string>
+    <string name="mi_viewCourse">View Courses</string>
+
+</resources>
